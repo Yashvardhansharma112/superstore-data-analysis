@@ -30,7 +30,7 @@ Includes a Power BI dashboard for interactive insights
 Clone the repository
 
 
-git clone https://github.com/your-username/superstore-data-analysis.git
+git clone https://github.com/Yashvardhansharma112/superstore-data-analysis/tree/main
 cd superstore-data-analysis
 Create a virtual environment
 
